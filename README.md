@@ -4,6 +4,7 @@ Datormācības kursa elektroniskā klade
 
 **"ls"** - parāda visas pieejamas mapes  
 **"ls -a"**  - parāda arī noslēptās mapes/files  
+**"ls -l"** - parāda mapes un kad pēdējo reiz updated
 **"pwd"**  - parāda user shell  
 **"history"**  - darbību vēsture  
 **"cat "file" "**  - izpilda file darbību ( piem .txt file parādīšanu)  
@@ -16,3 +17,4 @@ Datormācības kursa elektroniskā klade
 **"control + alt + T"** - attaisa command promp  
 **"letter +  :left_right_arrow:"** - Piedavā visas pieejamas komandas uz izvēlēto burtu  
 **" :arrow_up:/ :arrow_down:"** - parāda komandas, pēc pēdēja pielietojuma  
+**"control + l"** - rada jaunu blank space
