@@ -32,6 +32,6 @@ Datormācības kursa elektroniskā klade
 **"cp fails2.txt fails3.txt"** - kopēt failu  
 **"mv fails1.txt Music/"** - pārvietot failu pa mapēm  
 **"mv fails*.txt Music/"** - * parāda, kurus failus nemt  
-**"mv fails1.txt ../fails101.txt"** - pārvieto citā mapē un pārsauc
-**"mv Music/*  .txt ./"** - pārvieto visus .txt files no mapes uz citu
-**"rm fails*.txt"** - dzēš txt failus, kuri ir ar to sākumu
+**"mv fails1.txt ../fails101.txt"** - pārvieto citā mapē un pārsauc  
+**"mv Music/*  .txt ./"** - pārvieto visus .txt files no mapes uz citu  
+**"rm fails*.txt"** - dzēš txt failus, kuri ir ar to sākumu  
