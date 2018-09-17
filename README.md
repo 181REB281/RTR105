@@ -14,5 +14,5 @@ Datormācības kursa elektroniskā klade
 **"control+ alt + f1"** - attaisa citu interface ( ar login un password)  
 **"control + alt + f7"** - aizved atpakaļ uz linux OS  
 **"control + alt + T"** - attaisa command promp  
-**"letter + TAB"** - Piedavā visas pieejamas komandas uz izvēlēto burtu  
-**"arrowUp/arrowDown"** - parāda komandas, pēc pēdēja pielietojuma  
+**"letter +  :left_right_arrow:"** - Piedavā visas pieejamas komandas uz izvēlēto burtu  
+**" :arrow_up:/ :arrow_down:"** - parāda komandas, pēc pēdēja pielietojuma  
