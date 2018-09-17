@@ -31,7 +31,7 @@ Datormācības kursa elektroniskā klade
 **"nano fails1.txt"** - ļauj rediģēt failus  
 **"cp fails2.txt fails3.txt"** - kopēt failu  
 **"mv fails1.txt Music/"** - pārvietot failu pa mapēm  
-**"mv fails*.txt Music/"** - "8^" parāda, kurus failus nemt  
+**"mv fails8^.txt Music/"** - "8^" parāda, kurus failus nemt  
 **"mv fails1.txt ../fails101.txt"** - pārvieto citā mapē un pārsauc  
 **"mv Music/ .txt ./"** - pārvieto visus .txt files no mapes uz citu  
-**"rm fails*.txt"** - dzēš txt failus, kuri ir ar to sākumu  
+**"rm fails8^.txt"** - dzēš txt failus, kuri ir ar to sākumu  
