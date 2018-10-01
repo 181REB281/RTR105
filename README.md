@@ -35,3 +35,10 @@ Datormācības kursa elektroniskā klade
 **"mv fails1.txt ../fails101.txt"** - pārvieto citā mapē un pārsauc  
 **"mv Music/ .txt ./"** - pārvieto visus .txt files no mapes uz citu  
 **"rm fails8^.txt"** - dzēš txt failus, kuri ir ar to sākumu  
+**cat /bin/ls** - random spam  
+**nano mans_skripts.sh** - 
+**echo $PATH** -  
+**chmod 764 mans_skripts.sh** - dod permit faila lasišanai
+**PATH=$PATH:~** - piešķiramās operācijas
+
+
