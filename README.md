@@ -41,5 +41,11 @@ Datormācības kursa elektroniskā klade
 **chmod 764 mans_skripts.sh** - dod permit faila lasišanai
 **PATH=$PATH:~** - piešķiramās operācijas  
 **git clone https://github.com/181REB281/RTR105**  - 
-
+**git pull** - quick fix ja ir divi branches  
+**python** - atver python  
+**vars()** - parāda darbības  
+**__builtins__** - galvena mape (4ip)  
+**__builtins__.__doc__** - cita mape  
+**ipython** - atver citu python variantu  
+**idle &** - atver VELVIENU python variantu  
 
