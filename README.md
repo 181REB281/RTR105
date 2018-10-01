@@ -39,6 +39,7 @@ Datormācības kursa elektroniskā klade
 **nano mans_skripts.sh** - 
 **echo $PATH** -  
 **chmod 764 mans_skripts.sh** - dod permit faila lasišanai
-**PATH=$PATH:~** - piešķiramās operācijas
+**PATH=$PATH:~** - piešķiramās operācijas  
+**git clone https://github.com/181REB281/RTR105**  - 
 
 
