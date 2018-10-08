@@ -36,11 +36,11 @@ Datormācības kursa elektroniskā klade
 **"mv Music/ .txt ./"** - pārvieto visus .txt files no mapes uz citu  
 **"rm fails8^.txt"** - dzēš txt failus, kuri ir ar to sākumu  
 **cat /bin/ls** - random spam  
-**nano mans_skripts.sh** - 
-**echo $PATH** -  
-**chmod 764 mans_skripts.sh** - dod permit faila lasišanai
+**nano mans_skripts.sh** -  
+**echo $PATH** -   
+**chmod 764 mans_skripts.sh** - dod permit faila lasišanai  
 **PATH=$PATH:~** - piešķiramās operācijas  
-**git clone https://github.com/181REB281/RTR105**  - 
+**git clone https://github.com/181REB281/RTR105**  -  
 **git pull** - quick fix ja ir divi branches  
 **python** - atver python  
 **vars()** - parāda darbības  
